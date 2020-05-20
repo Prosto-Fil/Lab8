@@ -1,0 +1,21 @@
+﻿"ConsoleApplication1.exe" (Win32). Загружено "C:\Users\HP37RTC\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe". Символы загружены.
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+"ConsoleApplication1.exe" (Win32). Выгружено "C:\Windows\SysWOW64\ucrtbased.dll"
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x52b0 завершился с кодом 0 (0x0).
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\rpcrt4.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sspicli.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\cryptbase.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\bcryptprimitives.dll". 
+"ConsoleApplication1.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+Поток 0x3194 завершился с кодом 0 (0x0).
+Поток 0x4d50 завершился с кодом 0 (0x0).
+Поток 0x66c завершился с кодом 0 (0x0).
+Программа "[19740] ConsoleApplication1.exe" завершилась с кодом 0 (0x0).
